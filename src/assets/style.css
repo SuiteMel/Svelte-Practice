@@ -1,0 +1,13 @@
+body {
+  @apply bg-gray-200 text-neutral-800;
+  font-family: 'Palanquin';
+}
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}

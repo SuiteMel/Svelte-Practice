@@ -2,6 +2,8 @@
   export let data;
   let src = data.src;
   let alt = data.alt;
+  src = new URL('../../assets/'+data.src, import.meta.url).href;
+  console.log( src );
 </script>
 
 <section class="my-20">
@@ -17,6 +19,7 @@
       
           <div>
             <div class="aspect-square">
+              <!-- <Image src="{data.src}" alt="data.alt" /> -->
               <img {src} {alt} class="object-contain object-center w-full h-full">
             </div>
           </div>

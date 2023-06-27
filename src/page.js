@@ -11,7 +11,7 @@ const page = [
     name: LR,
     data: { 
       content: '<h2 class="font-headings text-3xl">Hi, I\'m Melissa Waltner</h2><p>Lorem ipsum dolor sit amet. Est ipsam debitis aut ducimus accusantium eos natus accusantium ut dicta Quis hic quia esse ex quam accusantium. A exercitationem itaque ut perferendis iste et labore neque et exercitationem officia eum voluptas voluptas est libero quia. Ad iure pariatur sed dolores internos et optio deleniti est saepe labore.</p>' ,
-      src: './src/assets/undraw_cat_epte.svg',
+      src: 'undraw_cat_epte.svg',
       alt: 'cat'
     }
   },

@@ -6,11 +6,11 @@
   <div class="container">
     <div class="-mx-8 flex flex-wrap">
     {#each data.cols as col}
-     <div class="px-8 w-4/12 mx-auto text-center flex-initial">
-        <div class="prose">
+      <div class="px-8 w-4/12 mx-auto text-center flex-initial">
+        <div class="prose max-w-none">
           {@html col.content}
         </div>
-     </div>
+      </div>
     {/each}
     </div>
   </div>

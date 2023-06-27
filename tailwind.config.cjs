@@ -6,6 +6,16 @@ module.exports = {
       center: true,
       padding: '32px'
     },
+    fontFamily: {
+      'sans': [
+        'Palanquin',
+        'sans-serif'
+      ],
+      'headings': [
+        'Nunito',
+        'sans-serif'
+      ]
+    },
     extend: {},
   },
   plugins: [require('@tailwindcss/typography')],

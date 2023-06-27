@@ -13,13 +13,14 @@
       <div class="container">
         <nav class="-mx-2">
           <Link class="px-2" to="/">Home</Link>
+          <Link class="px-2" to="/Svelte-Practice">Practice</Link>
           <Link class="px-2" to="/qr-code">QR Code</Link>
           <Link class="px-2" to="/nft-card">NFT Card</Link>
         </nav>
       </div>
     </header>
 
-    <Route path="/">
+    <Route path="/Svelte-Practice">
       <main class="">
         {#each page as component }
           <svelte:component this={component.name} data={component.data} />

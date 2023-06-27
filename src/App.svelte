@@ -6,7 +6,7 @@
   import NFTCard from './pages/NFTCard.svelte';
 </script>
 
-<Router basepath="/Svelte-Practice">
+<Router>
   {@html symbols}
   <div class="wrapper">
     

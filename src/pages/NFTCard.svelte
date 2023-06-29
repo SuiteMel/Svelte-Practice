@@ -24,7 +24,7 @@
         <div class="bg-[color:var(--blue)] p-6 rounded-xl">
           <div class="aspect-square rounded-lg bg-blue-700 relative mb-5 overflow-hidden ">
             <a href="/" class="block after:block after:bg-[color:var(--cyan)] after:opacity-0 hover:after:opacity-50 after:absolute after:inset-0 group">
-              <img src="{nft}" alt="" class="object-cover h-full w-full">
+              <img src="{nft}" alt="Equilibrium #3429 NFT" class="object-cover h-full w-full">
 
               <Icon name="view" class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10 h-12 w-12 opacity-0 group-hover:opacity-100"/>
             </a>

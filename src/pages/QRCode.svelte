@@ -5,7 +5,7 @@
 </svelte:head>
 
 <script>
-  import qrcode from '../assets/image-qr-code.png';
+  import qrcode from '../assets/frontend-mentor/image-qr-code.png';
 </script>
 
 <main class="flex flex-col">

@@ -6,7 +6,7 @@
   // console.log( src );
 </script>
 
-<section class="my-20">
+<section class="{data.sectionClass}">
   <div class="container">
     <div class="-mx-8">
       <div class="px-8 w-10/12 mx-auto">

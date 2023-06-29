@@ -5,8 +5,8 @@
 </svelte:head>
 
 <script>
-  import nft from '../assets/image-equilibrium.jpg';
-  import avatar from '../assets/image-avatar.png';
+  import nft from '../assets/frontend-mentor/image-equilibrium.jpg';
+  import avatar from '../assets/frontend-mentor/image-avatar.png';
   import Icon from '../lib/components/icon.svelte';
 </script>
 

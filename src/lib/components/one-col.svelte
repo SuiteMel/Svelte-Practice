@@ -2,7 +2,7 @@
   export let data;
 </script>
 
-<section class="my-20">
+<section class="{data.sectionClass}">
   <div class="container">
     <div class="-mx-8">
      <div class="px-8 w-8/12 mx-auto text-center">

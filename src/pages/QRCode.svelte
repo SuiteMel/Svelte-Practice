@@ -39,8 +39,8 @@
 <footer class="bg-violet-100 py-2">
   <div class="container">
     <div class="text-xs">
-      Challenge by <a class="text-violet-700" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-      Coded by <a class="text-violet-700" href="https://github.com/SuiteMel" target="_blank">SuiteMel</a>.
+      Challenge by <a class="text-violet-700 underline" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a class="text-violet-700 underline" href="https://github.com/SuiteMel" target="_blank">SuiteMel</a>.
     </div>
   </div>
 </footer>

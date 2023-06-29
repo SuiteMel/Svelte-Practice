@@ -30,7 +30,7 @@
             </a>
           </div>
   
-          <a href="/" class="font-semibold text-white text-2xl mb-5 hover:text-[color:var(--cyan)] block">Equilibrium #3429</a>
+          <a href="/" class="font-semibold text-white text-2xl mb-5 hover:text-[color:var(--cyan)] block"><h2>Equilibrium #3429</h2></a>
       
           <p class="text-lg text-[color:var(--soft-blue)] font-light mb-4">Our Equilibrium collection promotes balance and calm.</p>
         
@@ -62,8 +62,8 @@
 <footer class="bg-violet-100 py-2">
   <div class="container">
     <div class="text-xs">
-      Challenge by <a class="text-violet-700" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-      Coded by <a class="text-violet-700" href="https://github.com/SuiteMel" target="_blank">SuiteMel</a>.
+      Challenge by <a class="text-violet-700 underline" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a class="text-violet-700 underline" href="https://github.com/SuiteMel" target="_blank">SuiteMel</a>.
     </div>
   </div>
 </footer>
